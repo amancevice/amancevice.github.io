@@ -1,39 +1,29 @@
-.forest {
-  background-color: #405952;
+.bone {
+  background-color: #e3e3e0;
 }
 
-.olive {
-  background-color: #9C9B7A;
+.bone-text {
+  color: #e3e3e0;
 }
 
-.sand {
-  background-color: #FFD393;
+.bone-text.link:hover {
+  background-color: #e3e3e0;
+  color: #423c32;
 }
 
-.persimmon {
-  background-color: #FF974F;
+.dust {
+  background-color: #423c32;
 }
 
-.cayenne {
-  background-color: #F54F29;
+.dust.darker {
+  background-color: #3a342a;
 }
 
-.forest-text {
-  color: #405952;
+.dust-text {
+  color: #423c32;
 }
 
-.olive-text {
-  color: #9C9B7A;
-}
-
-.sand-text {
-  color: #FFD393;
-}
-
-.persimmon-text {
-  color: #FF974F;
-}
-
-.cayenne-text {
-  color: #F54F29;
+.dust-text.link:hover {
+  background-color: #423c32;
+  color: #e3e3e0;
 }
