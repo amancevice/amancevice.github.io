@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/smallweirdnumber
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://smallweirdnumber.com
+  * I am smallweirdnumber (https://keybase.io/smallweirdnumber) on keybase.
+  * I have a public key ASDknBbjsvUaWpJraFy92371I6LEzAGR_LAD2nVw_nOUIgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207a29177506add3d6754f2c36d92616aa068119d2bc2a5d8bb78d106159210d570a",
+      "host": "keybase.io",
+      "kid": "0120e49c16e3b2f51a5a926b685cbddb7ef523a2c4cc0191fcb003da7570fe7394220a",
+      "uid": "5bd4b81beab148b53762dc2b4d890b19",
+      "username": "smallweirdnumber"
+    },
+    "merkle_root": {
+      "ctime": 1508117432,
+      "hash": "7a454b03ac999bc7b181f83e44bcef41079b349a76e1da2b1d7e08dda402a465cab85207bd4b538fb8223b30570edad0366d8e89cbf0e9eb67e6013102846172",
+      "hash_meta": "0ecca35bfa216db7a95d069bb3fb92abc966c2d6f0aafe7ffddbf45a24ef841f",
+      "seqno": 1582850
+    },
+    "service": {
+      "hostname": "smallweirdnumber.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508117465,
+  "expire_in": 504576000,
+  "prev": "8218ed32c7bcc501382666db8ed0123278df6ad652068c2ab79129439b84f2ae",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5JwW47L1GlqSa2hcvdt+9SOixMwBkfywA9p1cP5zlCIKp3BheWxvYWTFA1R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2EyOTE3NzUwNmFkZDNkNjc1NGYyYzM2ZDkyNjE2YWEwNjgxMTlkMmJjMmE1ZDhiYjc4ZDEwNjE1OTIxMGQ1NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTQ5YzE2ZTNiMmY1MWE1YTkyNmI2ODVjYmRkYjdlZjUyM2EyYzRjYzAxOTFmY2IwMDNkYTc1NzBmZTczOTQyMjBhIiwidWlkIjoiNWJkNGI4MWJlYWIxNDhiNTM3NjJkYzJiNGQ4OTBiMTkiLCJ1c2VybmFtZSI6InNtYWxsd2VpcmRudW1iZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDgxMTc0MzIsImhhc2giOiI3YTQ1NGIwM2FjOTk5YmM3YjE4MWY4M2U0NGJjZWY0MTA3OWIzNDlhNzZlMWRhMmIxZDdlMDhkZGE0MDJhNDY1Y2FiODUyMDdiZDRiNTM4ZmI4MjIzYjMwNTcwZWRhZDAzNjZkOGU4OWNiZjBlOWViNjdlNjAxMzEwMjg0NjE3MiIsImhhc2hfbWV0YSI6IjBlY2NhMzViZmEyMTZkYjdhOTVkMDY5YmIzZmI5MmFiYzk2NmMyZDZmMGFhZmU3ZmZkZGJmNDVhMjRlZjg0MWYiLCJzZXFubyI6MTU4Mjg1MH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzbWFsbHdlaXJkbnVtYmVyLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDgxMTc0NjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiODIxOGVkMzJjN2JjYzUwMTM4MjY2NmRiOGVkMDEyMzI3OGRmNmFkNjUyMDY4YzJhYjc5MTI5NDM5Yjg0ZjJhZSIsInNlcW5vIjozMywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBhiQOqxSusly4Ae4WIwDqXxO6Y9WU426aBcb1huET1cNu52Zen8NQ7jfEWwrrglxLPww/0M3J+zAWbfjR8I4EGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgJgsoz5tv/bObaGUAFeHqoIkcxCKeeFlyghXU9MFt0NWjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/smallweirdnumber
+
+==================================================================
