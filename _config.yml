@@ -1,0 +1,49 @@
+# Site
+title: Alexander Mancevice
+description: Contact | Social | Public Keys
+url: http://smallweirdnumber.com
+logo: logo.png
+locale: en_US
+
+# Jekyll
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+# Social Links
+email: smallweirdnum@gmail.com
+twitter: smallweirdnumbr
+github: amancevice
+keybase: smallweirdnumber
+linkedin: amancevice
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+# Exclude list
+include:
+  - _pages
+exclude:
+  - .DS_Store
+  - .sass-cache
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Rakefile
+  - _site
+  - src
+  - vendor

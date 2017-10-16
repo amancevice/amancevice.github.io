@@ -1,0 +1,36 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body id="homepage">
+    <!-- Left -->
+    <div class="block-left">
+      <div class="content">
+        <div id="contact" class="main-info">
+          <a href="{{ site.url }}" class="logo">
+            <img src="{{ site.url }}/images/{{ site.logo }}">
+          </a>
+          <h1>{{ site.title }}</h1>
+          <h2>{{ site.description }}</h2>
+          <ul>
+            <li><a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope"></i></a></li>
+            <li><a class="social-btn" href="http://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-twitter"></i></a></li>
+            <li><a class="social-btn" href="http://github.com/{{ site.github }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-github"></i></a></li>
+            <li><a class="social-btn" href="https://keybase.io/{{ site.keybase }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-key"></i></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <!-- Right -->
+    <div class="block-right" style="background-color: #353342;">
+      <div class="content">
+        <div class="about-info">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
