@@ -1,15 +1,3 @@
-# amancevice.github.io
-curriculum vitæ
+# Small Weird Number
 
-# Citations
-
-**Theme**
-[Materialize Parralax](http://materializecss.com/templates/parallax-template/preview.html)
-
-**Colors**
-[Ocean Sunset](https://color.adobe.com/Ocean-Sunset-color-theme-9613665)
-* `#405952`
-* `#9C9B7A`
-* `#FFD393`
-* `#FF974F`
-* `#F54F29`
+Based on the Jekyll Theme [Halve](https://github.com/TaylanTatli/Halve)
