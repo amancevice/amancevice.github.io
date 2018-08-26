@@ -4,7 +4,7 @@ https://keybase.io/smallweirdnumber
 
 I hereby claim:
 
-  * I am an admin of http://smallweirdnumber.com
+  * I am an admin of https://smallweirdnumber.com
   * I am smallweirdnumber (https://keybase.io/smallweirdnumber) on keybase.
   * I have a public key ASDknBbjsvUaWpJraFy92371I6LEzAGR_LAD2nVw_nOUIgo
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "hostname": "smallweirdnumber.com",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
