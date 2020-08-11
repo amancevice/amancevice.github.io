@@ -1,5 +1,6 @@
-source 'https://rubygems.org'
-gem 'jekyll',         '~> 3.6'
-gem 'jekyll-feed',    '~> 0.9'
-gem 'jekyll-gist',    '~> 1.4'
-gem 'jekyll-sitemap', '~> 1.1'
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "jekyll-feed"
+gem "jekyll-gist"
+gem "jekyll-sitemap"
